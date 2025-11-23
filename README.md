@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Data Scientist & Product Manager with a strong foundation in data platforms, data products, and full-cycle product development<br><br>🎓 MDS student at the University of British Columbia (UBC); previously studied IT engineering and MBA at BCIT, etc.<br><br>🛠️ Skilled in: Python, R, SQL, AWS, Databricks, Spark, A/B testing, etc<br><br>🤝 Open to collaborating on machine-learning, analytics, data-driven product initiatives<br><br>🌱 Currently learning: scalable ML systems, causal inference, real-time data pipelines<br><br>⚡ Fun fact: I’m data-driven but people-focused — balancing analytics with human insight
+🧠 Data Scientist & Product Manager with a strong foundation in data platforms, data products, and full-cycle product development<br><br>🎓 MDS student at the University of British Columbia (UBC); previously studied IT engineering and MBA at BCIT, etc.<br><br>🛠️ Skilled in: Python, R, SQL, AWS, Databricks, Spark, A/B testing, etc<br><br>🤝 Open to collaborating on machine-learning, analytics, data-driven product initiatives<br><br>🌱 Currently learning: scalable ML systems, causal inference, real-time data pipelines<br><br>⚡ Fun fact: I’m data-driven but people-focused, balancing analytics with human insight
 
 
 ## 🌐 Socials:
