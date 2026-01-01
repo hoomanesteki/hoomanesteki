@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I’m Hooman, a Machine Learning Engineer who helps teams move from guesswork and manual effort to AI-driven clarity, automation, and intelligent agentic solutions 🚀😊 
+Hi, I’m Hooman, a Machine Learning Engineer with a product management background who helps teams move from guesswork and manual effort to AI-driven clarity, automation, and intelligent agentic solutions 🚀😊 
 
 I work with SME companies that have data but lack clarity, machine learning ideas that struggle to become real systems, and decisions still driven more by instinct than evidence. I focus on shaping ML into something practical, defining the right problems, guiding strategy, validating through data and experimentation, and helping teams turn AI potential into outcomes that truly create value.
 
