@@ -7,14 +7,14 @@ I work with SME companies that have data but lack clarity, machine learning idea
 I hold a Master of Data Science from the University of British Columbia (UBC) and also studied Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT), blending technical depth with business strategy to ensure solutions are both strong in execution and meaningful in impact.
 
 ### 💡 What I Do
-🤖 Machine Learning & AI Agents: Build reliable, scalable ML systems and intelligent agentic solutions  
-⚙️ Automation: Transform slow, manual workflows into efficient, automated processes  
-🧠 Practical ML Execution: Turn AI ideas into real, deployable systems grounded in real-world needs  
-📊 Evidence-Driven Decisions: Use research, data, and A/B testing to reduce uncertainty  
+🤖 **Machine Learning & AI Agents:** Build reliable, scalable ML systems and intelligent agentic solutions  
+⚙️ **Automation:** Transform slow, manual workflows into efficient, automated processes  
+🧠 **Practical ML Execution:** Turn AI ideas into real, deployable systems grounded in real-world needs  
+📊 **Evidence-Driven Decisions:** Use research, data, and A/B testing to reduce uncertainty  
 
-🎯 Customer Focus: Design solutions around user problems, not just technical possibilities  
-🚀 Business Alignment: Ensure every technical effort maps to measurable product and business value
-🧭 Product Strategy (PM): Shape direction, prioritize impact, and align roadmap with real outcomes  
+🎯 **Customer Focus:** Design solutions around user problems, not just technical possibilities <br>
+🚀 **Business Alignment:** Ensure every technical effort maps to measurable product and business value <br>
+🧭 **Product Strategy:** Shape direction, prioritize impact, and align roadmap with real outcomes <br>
 
 If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
 
