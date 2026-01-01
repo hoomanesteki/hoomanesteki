@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Hi, I’m **Hooman**, a **Machine Learning Engineer** who helps teams move from guesswork and manual effort to **AI-driven clarity, automation, and intelligent agentic solutions** 🚀😊 
+Hi, I’m Hooman, a Machine Learning Engineer who helps teams move from guesswork and manual effort to AI-driven clarity, automation, and intelligent agentic solutions 🚀😊 
 
-I work with small startups, mid-sized teams, and enterprise organizations that have data but lack clarity, ML initiatives that never reach production, and decisions driven more by instinct than evidence. With a strong Product Management background and deep focus on customer value, I help turn complexity into direction, research into confidence, and ideas into outcomes that actually matter.
+I work with SME companies that have data but lack clarity, machine learning ideas that struggle to become real systems, and decisions still driven more by instinct than evidence. I focus on shaping ML into something practical, defining the right problems, guiding strategy, validating through data and experimentation, and helping teams turn AI potential into outcomes that truly create value.
 
-I hold a **Master of Data Science from the University of British Columbia (UBC)** and also studied **Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT)**. This blend of technical depth and business perspective helps me combine strong engineering execution with product strategy thinking, ensuring solutions are both technically solid and truly meaningful.
+I hold a Master of Data Science from the University of British Columbia (UBC) and also studied Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT). This blend of technical depth and business perspective helps me combine strong engineering execution with product strategy thinking, ensuring solutions are both technically solid and truly meaningful.
 
 
 ### 💡 What I Do
@@ -13,7 +13,7 @@ I hold a **Master of Data Science from the University of British Columbia (UBC)*
 - 📊 Use research, data, and **A/B testing** to guide decisions  
 - 🎯 Keep solutions customer-focused, not just technically impressive  
 - 🚀 Align technical work with real product & business outcomes  
-
+<br></br>
 
 If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
 
