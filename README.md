@@ -2,9 +2,9 @@
 
 Hi, I’m **Hooman**, a **Machine Learning Engineer** who helps teams move from guesswork and manual effort to **AI-driven clarity, automation, and intelligent agentic solutions** 🚀😊 
 
-I work with organizations that have data but lack direction, ML projects that stall before production, and decisions driven more by instinct than evidence. My focus is building **customer-centric, research-driven intelligence** that delivers real impact, simply and effectively. 
+I work with small startups, mid-sized teams, and enterprise organizations that have data but lack clarity, ML initiatives that never reach production, and decisions driven more by instinct than evidence. With a strong Product Management background and deep focus on customer value, I help turn complexity into direction, research into confidence, and ideas into outcomes that actually matter.
 
-I hold a **Master of Data Science from the University of British Columbia (UBC)** and blend strong engineering execution with product strategy thinking to ensure solutions are both technically solid and meaningful.
+I hold a **Master of Data Science from the University of British Columbia (UBC)** and also studied **Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT)**. This blend of technical depth and business perspective helps me combine strong engineering execution with product strategy thinking, ensuring solutions are both technically solid and truly meaningful.
 
 
 ### 💡 What I Do
