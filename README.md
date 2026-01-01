@@ -14,7 +14,6 @@ I hold a **Master of Data Science from the University of British Columbia (UBC)*
 - 🎯 Keep solutions customer-focused, not just technically impressive  
 - 🚀 Align technical work with real product & business outcomes  
 
----
 
 If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
 
