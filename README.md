@@ -6,14 +6,12 @@ I work with SME companies that have data but lack clarity, machine learning idea
 
 I hold a Master of Data Science from the University of British Columbia (UBC) and also studied Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT). This blend of technical depth and business perspective helps me combine strong engineering execution with product strategy thinking, ensuring solutions are both technically solid and truly meaningful.
 
-
 ### 💡 What I Do
 - 🤖 Build reliable ML systems & AI agents  
 - ⚙️ Automate workflows and decision processes  
 - 📊 Use research, data, and **A/B testing** to guide decisions  
 - 🎯 Keep solutions customer-focused, not just technically impressive  
 - 🚀 Align technical work with real product & business outcomes  
-<br></br>
 
 If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
 
