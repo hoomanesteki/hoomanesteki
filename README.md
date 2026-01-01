@@ -1,6 +1,24 @@
 # 💫 About Me:
-🧠 Data Scientist & Product Manager with a strong foundation in data platforms, data products, and full-cycle product development<br><br>🎓 MDS student at the University of British Columbia (UBC); previously studied IT engineering and MBA at BCIT, etc.<br><br>🛠️ Skilled in: Python, R, SQL, AWS, Databricks, Spark, A/B testing, etc<br><br>🤝 Open to collaborating on machine-learning, analytics, data-driven product initiatives<br><br>🌱 Currently learning: scalable ML systems, causal inference, real-time data pipelines<br><br>⚡ Fun fact: I’m data-driven but people-focused, balancing analytics with human insight
 
+Hi, I’m **Hooman**, a **Machine Learning Engineer** who helps teams move from guesswork and manual effort to **AI-driven clarity, automation, and intelligent agentic solutions** 🚀😊 
+
+I work with organizations that have data but lack direction, ML projects that stall before production, and decisions driven more by instinct than evidence. My focus is building **customer-centric, research-driven intelligence** that delivers real impact, simply and effectively. 
+
+I hold a **Master of Data Science from the University of British Columbia (UBC)** and blend strong engineering execution with product strategy thinking to ensure solutions are both technically solid and meaningful.
+
+
+### 💡 What I Do
+- 🤖 Build reliable ML systems & AI agents  
+- ⚙️ Automate workflows and decision processes  
+- 📊 Use research, data, and **A/B testing** to guide decisions  
+- 🎯 Keep solutions customer-focused, not just technically impressive  
+- 🚀 Align technical work with real product & business outcomes  
+
+---
+
+If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
+
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
