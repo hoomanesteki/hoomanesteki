@@ -1,22 +1,19 @@
 # 💫 About Me:
 
-Hi, I’m Hooman, a Machine Learning Engineer with a product management background who helps teams move from guesswork and manual effort to AI-driven clarity, automation, and intelligent agentic solutions 🚀😊 
+I'm Hooman, and I help teams build machine learning systems and AI agents that transform data ambitions into tangible results. I focus on enabling confident decisions, automating workflows, and creating meaningful business impact.
+I focus on practical, customer-centric solutions that are validated with data and built to work reliably in production. With a background in Data Science and Product Management, I bridge strategy and execution so AI is not just impressive, but useful, scalable, and aligned with real business goals.
 
-I work with SME companies that have data but lack clarity, machine learning ideas that don’t turn into real systems, and decisions still driven more by instinct than evidence. I focus on making ML practical, defining the right problems, guiding strategy, validating with data and experimentation, and turning AI potential into outcomes that truly create value.
+My background includes a Master of Data Science from UBC, along with a Business and eMBA from BCIT. This combination has helped me balance strong engineering execution with strategic, business-focused thinking.
 
-I hold a Master of Data Science from the University of British Columbia (UBC) and also studied Business Management and MBA coursework at the British Columbia Institute of Technology (BCIT), blending technical depth with business strategy to ensure solutions are both strong in execution and meaningful in impact.
+What I Work On:
+🤖 Machine Learning & AI Agents: Build reliable, scalable ML systems and intelligent agentic solutions 
+⚙️ Automation: Turn slow, manual workflows into efficient, automated processes 
+🧠 Practical AI Execution: Transform AI ideas into real, deployable, production-ready systems 
+📊 Evidence-Driven Decisions: Use research, data, and A/B testing to guide confident decisions 
+🧭 Product Strategy: Connect technology to business goals, prioritize impact, and ensure meaningful outcomes
 
-### 💡 What I Do
-🤖 **Machine Learning & AI Agents:** Build reliable, scalable ML systems and intelligent agentic solutions  
-⚙️ **Automation:** Transform slow, manual workflows into efficient, automated processes  
-🧠 **Practical ML Execution:** Turn AI ideas into real, deployable systems grounded in real-world needs  
-📊 **Evidence-Driven Decisions:** Use research, data, and A/B testing to reduce uncertainty  
-
-🎯 **Customer Focus:** Design solutions around user problems, not just technical possibilities <br>
-🚀 **Business Alignment:** Ensure every technical effort maps to measurable product and business value <br>
-🧭 **Product Strategy:** Shape direction, prioritize impact, and align roadmap with real outcomes <br>
-
-If you want AI, ML, and automation that are practical, trustworthy, and felt by your users, I’d love to connect 😊 
+Always happy to connect and chat about data 📊, AI/ML 🤖, product 🚀, or grab a coffee ☕️. 
+If you’re into hiking 🥾, running 🏃‍♂️, tennis 🎾, or skiing ⛷️, even better 😊
 
 ---
 
