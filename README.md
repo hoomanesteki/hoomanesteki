@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-I'm Hooman, and I help teams build machine learning systems and AI agents that transform data ambitions into tangible results. I focus on enabling confident decisions, automating workflows, and creating meaningful business impact.
+Hi, I'm Hooman 👋🏻, and I help teams turn their data ambitions into real results, building machine learning systems and AI agents that enable confident decisions, automate workflows, and create meaningful business impact 🚀😊
+
 I focus on practical, customer-centric solutions that are validated with data and built to work reliably in production. With a background in Data Science and Product Management, I bridge strategy and execution so AI is not just impressive, but useful, scalable, and aligned with real business goals.
 
 My background includes a Master of Data Science from UBC, an IT Engineering (similar to Computer Science), Business, and eMBA from BCIT, etc.  This diverse background has helped me balance strong engineering execution with strategic, business-focused thinking.
