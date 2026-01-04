@@ -5,12 +5,12 @@ I focus on practical, customer-centric solutions that are validated with data an
 
 My background includes a Master of Data Science from UBC, along with a Business and eMBA from BCIT. This combination has helped me balance strong engineering execution with strategic, business-focused thinking.
 
-What I Work On:
-🤖 Machine Learning & AI Agents: Build reliable, scalable ML systems and intelligent agentic solutions 
-⚙️ Automation: Turn slow, manual workflows into efficient, automated processes 
-🧠 Practical AI Execution: Transform AI ideas into real, deployable, production-ready systems 
-📊 Evidence-Driven Decisions: Use research, data, and A/B testing to guide confident decisions 
-🧭 Product Strategy: Connect technology to business goals, prioritize impact, and ensure meaningful outcomes
+What I Work On: <br>
+🤖 Machine Learning & AI Agents: Build reliable, scalable ML systems and intelligent agentic solutions <br>
+⚙️ Automation: Turn slow, manual workflows into efficient, automated processes <br>
+🧠 Practical AI Execution: Transform AI ideas into real, deployable, production-ready systems <br>
+📊 Evidence-Driven Decisions: Use research, data, and A/B testing to guide confident decisions <br>
+🧭 Product Strategy: Connect technology to business goals, prioritize impact, and ensure meaningful outcomes <br>
 
 Always happy to connect and chat about data 📊, AI/ML 🤖, product 🚀, or grab a coffee ☕️. 
 If you’re into hiking 🥾, running 🏃‍♂️, tennis 🎾, or skiing ⛷️, even better 😊
