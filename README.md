@@ -1,17 +1,16 @@
 # 💫 About Me:
 
-Hi, I'm Hooman 👋🏻, and I help teams turn their data ambitions into real results, building machine learning systems and AI agents that enable confident decisions, automate workflows, and create meaningful business impact 🚀😊
+If you’re trying to make better decisions with your data, automate messy workflows, or turn machine learning ideas into something that actually works in production, I can help. 🚀😊
 
-I focus on practical, customer-centric solutions that are validated with data and built to work reliably in production. With a background in Data Science and Product Management, I bridge strategy and execution so AI is not just impressive, but useful, scalable, and aligned with real business goals.
+I’m a Machine Learning Engineer completing a Master of Data Science at UBC, with 5+ years of experience across data analytics and product development. My background means I don’t just build models, I focus on solving real business problems and making sure solutions are practical, reliable, and measurable.
 
-My background includes a Master of Data Science from UBC, an IT Engineering (similar to Computer Science), Business, and eMBA from BCIT, etc.  This diverse background has helped me balance strong engineering execution with strategic, business-focused thinking.
+I’ve helped teams:
+- Build centralized analytics systems from fragmented data
+- Automate reporting and forecasting workflows
+- Develop ML models that improve retention and revenue
+- Move from “we should use AI” to “this is delivering results”
 
-What I Work On: <br>
-🤖 Machine Learning & AI Agents: Build reliable, scalable ML systems and intelligent agentic solutions <br>
-⚙️ Automation: Turn slow, manual workflows into efficient, automated processes <br>
-🧠 Practical AI Execution: Transform AI ideas into real, deployable, production-ready systems <br>
-📊 Evidence-Driven Decisions: Use research, data, and A/B testing to guide confident decisions <br>
-🧭 Product Strategy: Connect technology to business goals, prioritize impact, and ensure meaningful outcomes <br>
+I care about building systems that are useful, not just impressive, solutions that align with business goals, integrate with existing workflows, and scale responsibly.
 
 Always happy to connect and chat about data 📊, AI/ML 🤖, product 🚀, or grab a coffee ☕️. 
 If you’re into hiking 🥾, running 🏃‍♂️, tennis 🎾, or skiing ⛷️, even better 😊
