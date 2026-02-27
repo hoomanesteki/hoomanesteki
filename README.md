@@ -41,7 +41,7 @@ Focus: the gap between "promising demo" and "thing that ships." Systems that sel
 
 **Self-healing. Drift-aware. Zero incidents.**
 
-PSI statistical monitoring fires retraining the moment data shifts. New models are safety-gated before serving a single prediction. Also, no human scheduling required.
+PSI statistical monitoring fires retraining the moment data shifts. New models are safety-gated before serving a single prediction. No human scheduling required.
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EA4335?style=flat-square)
