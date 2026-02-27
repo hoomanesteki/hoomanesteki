@@ -39,7 +39,7 @@ Focus: the gap between "promising demo" and "thing that ships." Systems that sel
 
 ### ⚡ Real-Time ML Platform
 
-**Self-healing. Drift-aware. Zero incidents.**
+**Self-healing. Drift-aware.**
 
 PSI statistical monitoring fires retraining the moment data shifts. New models are safety-gated before serving a single prediction.
 
