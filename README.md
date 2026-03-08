@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hooman%20Esteki&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Master%20of%20Data%20Science%20at%20UBC&descAlignY=64&descColor=rgba(255,255,255,0.6)&descSize=14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hooman%20Esteki&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Master%20of%20Data%20Science%20at%20UBC&descAlignY=64&descColor=rgba(255,255,255,0.6)&descSize=14&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -232,6 +232,6 @@ if decision.needs_data():
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 
 </div>
