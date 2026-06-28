@@ -60,7 +60,7 @@ Discovers **and statistically validates** audience personas from 83K social post
 #### 📞 Misrouted-Call Tagger
 <sub>LLM systems · cost-tiered</sub>
 
-Decides whether a misrouted lead gets refunded. Moving the call **out of the model and into a rule** lifted precision on the *same* model. No bigger model needed.
+Decides whether a misrouted lead gets refunded. Moving the call **out of the model and into a rule** lifted precision on the *same* model, No bigger model.
 
 `.43 → .89 precision`
 
