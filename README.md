@@ -18,8 +18,6 @@
 
 ---
 
-## 👋 Hey, I'm Hooman
-
 I turn messy data into systems that survive launch. Five years of it: **drift-aware retraining**, **cost-tiered LLM pipelines**, and the **statistical validation** that proves a result is real.
 
 🎯 My favorite problem is the gap between *"cool demo"* and *"thing a team can actually own and ship."*
