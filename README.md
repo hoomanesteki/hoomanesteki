@@ -251,10 +251,6 @@ An AI analyst that **asks before it acts**. A 3 gate approval flow, SELECT only 
 </tr>
 </table>
 
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=hoomanesteki&theme=github_dark_dimmed&hide_border=true&ring=0071e3&fire=0071e3&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoomanesteki&theme=react-dark&hide_border=true&area=true&area_color=0071e3&color=58A6FF&line=0071e3&point=ffffff&bg_color=0d1117" />
-
 ---
 
 <div align="center">
