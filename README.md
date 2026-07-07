@@ -25,7 +25,7 @@ I turn messy data into systems that survive launch. Five years of it: **drift-aw
 🎓 Master of Data Science @ UBC &nbsp;·&nbsp; ☁️ AWS & Databricks certified &nbsp;·&nbsp; 📍 Open to relocate across Canada & the US
 
 > 💬 Talk to me about data 📊, AI/ML 🤖, or what makes a model safe to ship 🛡️
-> When the laptop closes I'm on a mountain, a court, or a 6am run. Curiosity doesn't stop at 5pm. ⛷️🎾🏃
+> When the laptop closes I'm on a mountain, a court, or a 6am run. Curiosity doesn't stop at 5pm ⛷️🎾🏃
 
 ---
 
