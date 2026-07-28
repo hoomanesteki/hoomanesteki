@@ -29,7 +29,7 @@ I take AI systems from prototype to production: **grounded RAG, multi-agent syst
 
 ## 🚀 Selected Work
 
-<sub>Nine systems, end to end. Every one links to a 3-minute case study <b>and</b> its source. &nbsp;<b><a href="https://esteki.ca/projects/index.html">Browse all nine →</a></b></sub>
+<sub>Nine systems, end to end. Every card reads the same way: <b>what it does</b> → <b>the result</b> → how it works → the stack. &nbsp;<b><a href="https://esteki.ca/projects/index.html">Browse all nine →</a></b></sub>
 
 <table width="100%">
 <tr>
@@ -37,12 +37,13 @@ I take AI systems from prototype to production: **grounded RAG, multi-agent syst
 
 [![](https://img.shields.io/badge/01-TraceGym-0891b2?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/tracegym-ai-agent-evaluation.html)
 
-**Agent Safety Net**<br/>
-<sub>AI evaluation · CI gates</sub>
+**Stops a code change from quietly breaking your AI.**
 
-Records an agent once, replays it offline, and blocks silent regressions **in the pull request**.
+✅ **10 / 10** planted bugs caught · **$0** to run
 
-`10/10 bugs caught` `$0 to run`
+<sub>Records the agent once, replays it offline with no API keys, and fails the build before a bad change merges.</sub>
+
+<sub>`Python` `OpenTelemetry` `SQLite` `GitHub Actions`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/tracegym-ai-agent-evaluation.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/tracegym-ai-agent-evaluation)
@@ -52,12 +53,13 @@ Records an agent once, replays it offline, and blocks silent regressions **in th
 
 [![](https://img.shields.io/badge/02-ToolSmith-a21caf?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/toolsmith-small-llm-agent-uplift.html)
 
-**Right Model, Right Job**<br/>
-<sub>Model routing · cost engineering</sub>
+**Finds the cheapest mix of AI models that still gets the job right.**
 
-Measures which part of an agent a cheap model can run. 8,100 graded runs, not a guess.
+✅ **3.6× cheaper** at the same quality
 
-`3.6× cheaper` `same quality`
+<sub>Splits an agent into planner, doer and checker, then scores all 15 combinations on the same 8,100 graded runs.</sub>
+
+<sub>`Python` `FastAPI` `Anthropic` `OpenAI` `Groq`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/toolsmith-small-llm-agent-uplift.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/toolsmith-small-llm-agent-uplift)
@@ -67,12 +69,13 @@ Measures which part of an agent a cheap model can run. 8,100 graded runs, not a 
 
 [![](https://img.shields.io/badge/03-Skein-4f46e5?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)
 
-**Agentic RAG Platform**<br/>
-<sub>Agentic RAG · knowledge graph</sub>
+**A company assistant that answers with sources, or admits it doesn't know.**
 
-One orchestrator over docs, governed metrics and a graph. **Cites every claim or abstains.**
+✅ **85.9%** routing · **100%** of hard cases escalated
 
-`85.9% routing` `569 tests`
+<sub>One orchestrator picks a specialist across documents, governed metrics and a knowledge graph, then checks every citation.</sub>
+
+<sub>`LangGraph` `Qdrant` `Neo4j` `dbt` `FastAPI`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/agentic-rag-knowledge-ai-platform)
@@ -82,29 +85,30 @@ One orchestrator over docs, governed metrics and a graph. **Cites every claim or
 <tr>
 <td width="33%" valign="top">
 
-[![](https://img.shields.io/badge/04-Posts_to_Personas-0ea5a5?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/posts-to-personas-audience-segmentation.html)
+[![](https://img.shields.io/badge/04-Posts_→_Personas-0ea5a5?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/posts-to-personas-audience-segmentation.html)
 
-**Audience Segmentation**<br/>
-<sub>NLP · clustering · statistics</sub>
+**Turns raw social conversation into customer types you can actually prove.**
 
-83K social posts into personas you can defend, each backed by a significance test.
+✅ **4 personas + 11 sub-types**, each statistically validated
 
-`0.98 ARI` `χ²/Fisher validated`
+<sub>An LLM tags behavioural signals at scale, three clustering algorithms agree on the groups, and significance tests confirm each one is real.</sub>
+
+<sub>`Python` `DSPy` `HDBSCAN` `scikit-learn` `MLflow`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/posts-to-personas-audience-segmentation.html)
-[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/posts-to-personas-audience-segmentation)
 
 </td>
 <td width="33%" valign="top">
 
 [![](https://img.shields.io/badge/05-Call_Tagger-16a34a?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/wrong-category-call-tagger.html)
 
-**Misrouted-Call Tagger**<br/>
-<sub>LLM extraction · cost-tiered</sub>
+**Reads sales calls and decides which misrouted lead earns a refund.**
 
-Decides refunds on misrouted leads. Moving one decision into a rule **beat a bigger model**.
+✅ Precision **43% → 89%** on the same model
 
-`.43 → .89 precision`
+<sub>The LLM only extracts facts; plain code makes the decision, so a bad guess shows up as a visible error instead of a silent one.</sub>
+
+<sub>`Python` `LLM APIs` `XGBoost` `Embeddings`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/wrong-category-call-tagger.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/wrong-category-call-tagger)
@@ -114,12 +118,13 @@ Decides refunds on misrouted leads. Moving one decision into a rule **beat a big
 
 [![](https://img.shields.io/badge/06-OmniAgent-d97706?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/omniagent-multi-agent-analytics.html)
 
-**Multi-Agent Analytics**<br/>
-<sub>Orchestration · secure execution</sub>
+**Ask a data question in plain English, get the chart and the answer.**
 
-Plain English into SQL, charts, stats and forecasts. Seven sandboxed specialists.
+✅ **91%** routed correctly · **7** specialist agents
 
-`91% routing` `195+ tests`
+<sub>An orchestrator hands the question to the right specialist, which runs its code in a sandbox behind 40+ security checks.</sub>
+
+<sub>`FastAPI` `MCP` `Plotly` `pandas` `Docker`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/omniagent-multi-agent-analytics.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/omniagent-multi-agent-analytics)
@@ -131,12 +136,13 @@ Plain English into SQL, charts, stats and forecasts. Seven sandboxed specialists
 
 [![](https://img.shields.io/badge/07-Real--Time_ML-0066cc?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/real-time-ml-platform.html)
 
-**Self-Healing Platform**<br/>
-<sub>MLOps · drift · retraining</sub>
+**Notices when a model goes stale and retrains it on its own.**
 
-Drift detection triggers retraining automatically. A human still approves promotion.
+✅ **5-stage** closed loop · **zero** manual scheduling
 
-`5-stage loop` `zero scheduling`
+<sub>A drift metric watches live traffic and triggers retraining automatically, but a human still approves the new model.</sub>
+
+<sub>`FastAPI` `MLflow` `XGBoost` `Docker` `AWS`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/real-time-ml-platform.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/real-time-ml-platform)
@@ -146,12 +152,13 @@ Drift detection triggers retraining automatically. A human still approves promot
 
 [![](https://img.shields.io/badge/08-Hybrid_RAG-7c3aed?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/amazon-books-rag-llm-search-system.html)
 
-**Retrieval &amp; Search**<br/>
-<sub>Hybrid search · guarded RAG</sub>
+**Search that understands what you meant, not just what you typed.**
 
-Keyword and semantic retrieval fused, then answered from evidence only.
+✅ **+22%** better results, A/B tested
 
-`+22% relevance` `A/B tested`
+<sub>Keyword and meaning-based search run together and their rankings are fused, then a guarded assistant answers from the evidence only.</sub>
+
+<sub>`FAISS` `BM25` `SBERT` `LangChain` `Gradio`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/amazon-books-rag-llm-search-system.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/amazon-books-rag-llm-search-system)
@@ -161,12 +168,13 @@ Keyword and semantic retrieval fused, then answered from evidence only.
 
 [![](https://img.shields.io/badge/09-Symbiote_Lite-e11d48?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/symbiote-lite-human-in-loop.html)
 
-**Human-in-the-Loop SQL**<br/>
-<sub>Approval gates · AST safety</sub>
+**An AI analyst that asks permission before it touches your database.**
 
-An AI analyst that **asks before it acts**. SELECT-only, enforced at the syntax tree.
+✅ **1M+** rows queried · **zero** writes allowed
 
-`154+ tests` `1M+ records`
+<sub>Three approval gates before anything runs, and read-only SQL enforced at the syntax-tree level rather than by a prompt.</sub>
+
+<sub>`FastAPI` `Gradio` `MCP` `SQLite` `pytest`</sub>
 
 [![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/symbiote-lite-human-in-loop.html)
 [![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/symbiote-lite-human-in-loop)
