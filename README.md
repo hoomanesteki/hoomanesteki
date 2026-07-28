@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2700&pause=850&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=I+build+ML+systems+that+ship.;Grounded+RAG+%C2%B7+Agents+%C2%B7+MLOps;Measured%2C+guarded%2C+production-ready.)](https://www.esteki.ca)
-
-<br/>
-
 [![Website](https://img.shields.io/badge/esteki.ca-0071e3?style=flat-square&logo=safari&logoColor=white)](https://www.esteki.ca)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hoomanesteki)&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hoomanesteki)&nbsp;
@@ -14,20 +10,14 @@
 
 </div>
 
----
+I take AI systems from prototype to production: **grounded RAG, multi-agent systems, and the evaluation and guardrails that make them safe to ship.** Safety lives in code, not prompts. Every claim carries a number.
 
-I build **agentic AI, RAG, ML platforms, and data products** that move from prototype to production.
-
-My focus: grounded outputs, measurable decisions, code-level safety, observability, and human approval for high-risk actions.
-
-🎓 **Master of Data Science, UBC**  
-☁️ **AWS and Databricks Certified**  
-📍 **Open across Canada and the US**
+🎓 **Master of Data Science, UBC** &nbsp;·&nbsp; ☁️ **AWS &amp; Databricks certified** &nbsp;·&nbsp; 📍 **Open across Canada and the US**
 
 <div align="center">
 
-![](https://img.shields.io/badge/7_systems-shipped_end_to_end-10b981?style=flat-square&labelColor=0d1117)&nbsp;
-![](https://img.shields.io/badge/1,200%2B_tests-across_projects-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/9_systems-shipped_end_to_end-10b981?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/1,470%2B_tests-across_projects-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;
 ![](https://img.shields.io/badge/cite_or_abstain-grounded_AI-7c3aed?style=flat-square&labelColor=0d1117)&nbsp;
 ![](https://img.shields.io/badge/human_approved-production-e11d48?style=flat-square&labelColor=0d1117)
 
@@ -37,173 +27,153 @@ My focus: grounded outputs, measurable decisions, code-level safety, observabili
 
 ---
 
-## 🚀 Things I've Shipped
+## 🚀 Selected Work
 
-<sub>Seven end-to-end systems built around real problems, measurable outcomes, and practical trade-offs.</sub>
+<sub>Nine systems, end to end. Every one links to a 3-minute case study <b>and</b> its source. &nbsp;<b><a href="https://esteki.ca/projects/index.html">Browse all nine →</a></b></sub>
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="33%" valign="top">
 
-[![P1](https://img.shields.io/badge/PROJECT_01-FLAGSHIP-10b981?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)
+[![](https://img.shields.io/badge/01-TraceGym-0891b2?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/tracegym-ai-agent-evaluation.html)
 
-### 🧵 Skein Lite: Agentic RAG Knowledge Platform
+**Agent Safety Net**<br/>
+<sub>AI evaluation · CI gates</sub>
 
-<sub>Agentic RAG · Knowledge Graph · Semantic Layer · MLOps</sub>
+Records an agent once, replays it offline, and blocks silent regressions **in the pull request**.
 
-A domain-adaptable assistant that **answers with evidence or abstains**.
+`10/10 bugs caught` `$0 to run`
 
-A master orchestrator routes requests to five specialists using vector retrieval, reranking, structured metrics, and a knowledge graph. Deterministic gates block PII, prompt injection, unsafe actions, and unsupported questions before the model runs.
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/tracegym-ai-agent-evaluation.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/tracegym-ai-agent-evaluation)
 
-Retraining is automated, while model promotion stays human controlled.
+</td>
+<td width="33%" valign="top">
 
-`500 tests` `85.9% routing` `100% escalation recall` `430× lower cost`
+[![](https://img.shields.io/badge/02-ToolSmith-a21caf?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/toolsmith-small-llm-agent-uplift.html)
 
-`FastAPI` `LangGraph` `Qdrant` `Cohere` `Groq` `Neo4j` `dbt` `MLflow` `Langfuse`
+**Right Model, Right Job**<br/>
+<sub>Model routing · cost engineering</sub>
 
-**[Read the story →](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)** · **[Live showcase →](https://hoomanesteki.github.io/agentic-rag-knowledge-ai-platform/)**
+Measures which part of an agent a cheap model can run. 8,100 graded runs, not a guess.
+
+`3.6× cheaper` `same quality`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/toolsmith-small-llm-agent-uplift.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/toolsmith-small-llm-agent-uplift)
+
+</td>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/03-Skein-4f46e5?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)
+
+**Agentic RAG Platform**<br/>
+<sub>Agentic RAG · knowledge graph</sub>
+
+One orchestrator over docs, governed metrics and a graph. **Cites every claim or abstains.**
+
+`85.9% routing` `569 tests`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/agentic-rag-knowledge-ai-platform.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/agentic-rag-knowledge-ai-platform)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/04-Posts_to_Personas-0ea5a5?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/posts-to-personas-audience-segmentation.html)
+
+**Audience Segmentation**<br/>
+<sub>NLP · clustering · statistics</sub>
+
+83K social posts into personas you can defend, each backed by a significance test.
+
+`0.98 ARI` `χ²/Fisher validated`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/posts-to-personas-audience-segmentation.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/posts-to-personas-audience-segmentation)
+
+</td>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/05-Call_Tagger-16a34a?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/wrong-category-call-tagger.html)
+
+**Misrouted-Call Tagger**<br/>
+<sub>LLM extraction · cost-tiered</sub>
+
+Decides refunds on misrouted leads. Moving one decision into a rule **beat a bigger model**.
+
+`.43 → .89 precision`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/wrong-category-call-tagger.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/wrong-category-call-tagger)
+
+</td>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/06-OmniAgent-d97706?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/omniagent-multi-agent-analytics.html)
+
+**Multi-Agent Analytics**<br/>
+<sub>Orchestration · secure execution</sub>
+
+Plain English into SQL, charts, stats and forecasts. Seven sandboxed specialists.
+
+`91% routing` `195+ tests`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/omniagent-multi-agent-analytics.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/omniagent-multi-agent-analytics)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/07-Real--Time_ML-0066cc?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/real-time-ml-platform.html)
+
+**Self-Healing Platform**<br/>
+<sub>MLOps · drift · retraining</sub>
+
+Drift detection triggers retraining automatically. A human still approves promotion.
+
+`5-stage loop` `zero scheduling`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/real-time-ml-platform.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/real-time-ml-platform)
+
+</td>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/08-Hybrid_RAG-7c3aed?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/amazon-books-rag-llm-search-system.html)
+
+**Retrieval &amp; Search**<br/>
+<sub>Hybrid search · guarded RAG</sub>
+
+Keyword and semantic retrieval fused, then answered from evidence only.
+
+`+22% relevance` `A/B tested`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/amazon-books-rag-llm-search-system.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/amazon-books-rag-llm-search-system)
+
+</td>
+<td width="33%" valign="top">
+
+[![](https://img.shields.io/badge/09-Symbiote_Lite-e11d48?style=for-the-badge&labelColor=0d1117)](https://esteki.ca/projects/symbiote-lite-human-in-loop.html)
+
+**Human-in-the-Loop SQL**<br/>
+<sub>Approval gates · AST safety</sub>
+
+An AI analyst that **asks before it acts**. SELECT-only, enforced at the syntax tree.
+
+`154+ tests` `1M+ records`
+
+[![case study](https://img.shields.io/badge/case_study-0d1117?style=flat-square&logo=safari&logoColor=58A6FF)](https://esteki.ca/projects/symbiote-lite-human-in-loop.html)
+[![code](https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hoomanesteki/symbiote-lite-human-in-loop)
 
 </td>
 </tr>
 </table>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-[![P2](https://img.shields.io/badge/PROJECT_02-6366f1?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/posts-to-personas-audience-segmentation.html)
-
-### 🧬 From Posts to Personas
-
-<sub>NLP · Clustering · Statistical Validation</sub>
-
-Turns 83K social posts into evidence-backed personas.
-
-Behavioral signals are clustered, then validated using Fisher or chi-square tests with false-discovery-rate correction. Each persona is supported by statistically significant patterns, not only visual clusters.
-
-`83K posts` `Validated personas` `23K+ tests`
-
-`DSPy` `GEPA` `HDBSCAN` `K-Means` `Fisher` `BH-FDR`
-
-**[Read the story →](https://www.esteki.ca/projects/posts-to-personas-audience-segmentation.html)**
-
-</td>
-
-<td width="50%" valign="top">
-
-[![P3](https://img.shields.io/badge/PROJECT_03-f59e0b?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/wrong-category-call-tagger.html)
-
-### 📞 Misrouted-Call Tagger
-
-<sub>LLM Extraction · Classification · Cost-Aware Design</sub>
-
-Classifies whether a misrouted lead should be refunded.
-
-Moving a key decision from the model into a deterministic rule improved precision from **0.43 to 0.89**, without using a larger model.
-
-`.43 → .89 precision` `Same model` `Lower cost`
-
-`LLM Extraction` `Embeddings` `XGBoost` `Rules` `Shadow Mode`
-
-**[Read the story →](https://www.esteki.ca/projects/wrong-category-call-tagger.html)**
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-[![P4](https://img.shields.io/badge/PROJECT_04-0071e3?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/real-time-ml-platform.html)
-
-### ♻️ Real-Time ML Platform
-
-<sub>MLOps · Drift Detection · Continuous Training</sub>
-
-A five-stage lifecycle connecting production monitoring to retraining.
-
-PSI drift triggers retraining, challenger evaluation, artifact tracking, and human-reviewed promotion.
-
-`5-stage loop` `PSI monitoring` `Zero manual scheduling`
-
-`FastAPI` `MLflow` `Docker` `AWS` `CI/CD` `Model Registry`
-
-**[Read the story →](https://www.esteki.ca/projects/real-time-ml-platform.html)**
-
-</td>
-
-<td width="50%" valign="top">
-
-[![P5](https://img.shields.io/badge/PROJECT_05-0d9488?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/amazon-books-rag-llm-search-system.html)
-
-### 🔎 Hybrid Retrieval and RAG
-
-<sub>Search · Reranking · Safe RAG</sub>
-
-Combines BM25 and semantic retrieval using reciprocal rank fusion and reranking.
-
-The guarded RAG layer answers from retrieved evidence, blocks prompt injection, and limits SQL to SELECT-only queries.
-
-`+22% relevance` `Sub-second` `A/B tested`
-
-`FAISS` `BM25` `SBERT` `RRF` `Reranking` `LangChain`
-
-**[Read the story →](https://www.esteki.ca/projects/amazon-books-rag-llm-search-system.html)**
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-[![P6](https://img.shields.io/badge/PROJECT_06-7c3aed?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/omniagent-multi-agent-analytics.html)
-
-### 🧠 OmniAgent Analytics
-
-<sub>Multi-Agent System · Analytics · Secure Execution</sub>
-
-Turns natural language into SQL, charts, statistics, and predictions.
-
-A central orchestrator routes work to seven specialists with schema validation, sandboxed execution, and 40+ security checks.
-
-`91% routing` `7 agents` `195+ tests`
-
-`FastAPI` `MCP` `Plotly` `Docker` `SQL` `Python`
-
-**[Read the story →](https://www.esteki.ca/projects/omniagent-multi-agent-analytics.html)**
-
-</td>
-
-<td width="50%" valign="top">
-
-[![P7](https://img.shields.io/badge/PROJECT_07-e11d48?style=for-the-badge&labelColor=0d1117)](https://www.esteki.ca/projects/symbiote-lite-human-in-loop.html)
-
-### 🛡️ Symbiote Lite
-
-<sub>Human-in-the-Loop · SQL Safety · Fallbacks</sub>
-
-An AI analyst that asks before it acts.
-
-A three-stage approval flow protects sensitive operations. SQL is checked at the AST level, writes are blocked, and deterministic fallbacks keep core analytics available.
-
-`154+ tests` `1M+ records` `Zero writes`
-
-`FastAPI` `Gradio` `MCP` `SQLite` `AST Validation`
-
-**[Read the story →](https://www.esteki.ca/projects/symbiote-lite-human-in-loop.html)**
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-**[Explore all seven projects →](https://www.esteki.ca/projects/index.html)**
-
-</div>
 
 ---
 
@@ -211,39 +181,10 @@ A three-stage approval flow protects sensitive operations. SQL is checked at the
 
 <table width="100%">
 <tr>
-
-<td width="25%" valign="top" align="center">
-
-### 🛡️ Guarded
-
-<sub>Safety rules and approval gates live in code, not prompts.</sub>
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-### 📏 Measured
-
-<sub>Models are selected by quality, latency, cost, and failure analysis.</sub>
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-### 💸 Cost-Aware
-
-<sub>Rules and smaller models handle simple requests first.</sub>
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-### 🤝 Human Approved
-
-<sub>Retraining is automated. Production promotion is controlled.</sub>
-
-</td>
-
+<td width="25%" valign="top" align="center"><b>🛡️ Guarded</b><br/><sub>Safety rules and approval gates live in code, not prompts.</sub></td>
+<td width="25%" valign="top" align="center"><b>📏 Measured</b><br/><sub>Models chosen on quality, latency, cost and failure analysis.</sub></td>
+<td width="25%" valign="top" align="center"><b>💸 Cost-Aware</b><br/><sub>Rules and small models handle the easy work first.</sub></td>
+<td width="25%" valign="top" align="center"><b>🤝 Human-Approved</b><br/><sub>Retraining is automatic. Promotion to production is not.</sub></td>
 </tr>
 </table>
 
@@ -252,117 +193,54 @@ A three-stage approval flow protects sensitive operations. SQL is checked at the
 ## 🛠 Toolbelt
 
 <table width="100%">
+<tr><td width="20%" valign="top"><b>🧵 RAG &amp; Retrieval</b></td><td>
 
-<tr>
-<td width="22%" valign="top"><b>🧵 RAG & Retrieval</b></td>
-<td>
+`LangGraph` `LangChain` `Qdrant` `FAISS` `BM25` `SBERT` `Cohere` `Neo4j` `RRF` `Reranking`
 
-`LangChain` `LangGraph` `Qdrant` `FAISS` `BM25` `SBERT` `Cohere` `Neo4j` `RRF` `Reranking`
+</td></tr>
+<tr><td valign="top"><b>🤖 Agents &amp; Safety</b></td><td>
 
-</td>
-</tr>
+`MCP` `DSPy` `Multi-agent routing` `Guardrails` `Human-in-the-loop` `Prompt-injection defence`
 
-<tr>
-<td valign="top"><b>🤖 Agents & Safety</b></td>
-<td>
+</td></tr>
+<tr><td valign="top"><b>🚀 MLOps &amp; LLMOps</b></td><td>
 
-`MCP` `DSPy` `GEPA` `Groq` `Multi-Agent Routing` `Human-in-the-Loop` `Guardrails`
+`MLflow` `Langfuse` `RAGAS` `OpenTelemetry` `FastAPI` `Docker` `CI eval gates` `Drift monitoring`
 
-</td>
-</tr>
-
-<tr>
-<td valign="top"><b>🚀 MLOps & LLMOps</b></td>
-<td>
-
-`MLflow` `Langfuse` `RAGAS` `FastAPI` `Docker` `CI/CD` `Model Registry` `Drift Monitoring`
-
-</td>
-</tr>
-
-<tr>
-<td valign="top"><b>🧠 ML & NLP</b></td>
-<td>
+</td></tr>
+<tr><td valign="top"><b>🧠 ML &amp; NLP</b></td><td>
 
 `PyTorch` `scikit-learn` `XGBoost` `Transformers` `Embeddings` `Clustering`
 
-</td>
-</tr>
+</td></tr>
+<tr><td valign="top"><b>🗄️ Data &amp; Cloud</b></td><td>
 
-<tr>
-<td valign="top"><b>🗄️ Data & Cloud</b></td>
-<td>
+`Spark` `Databricks` `dbt` `DuckDB` `PostgreSQL` `SQLite` `AWS` `Azure`
 
-`Spark` `PySpark` `Databricks` `dbt` `DuckDB` `PostgreSQL` `AWS` `Azure`
+</td></tr>
+<tr><td valign="top"><b>📊 Statistics</b></td><td>
 
-</td>
-</tr>
+`Python` `R` `A/B testing` `Causal inference` `Bootstrap CI` `McNemar` `Fisher / χ²` `BH-FDR`
 
-<tr>
-<td valign="top"><b>📊 Statistics</b></td>
-<td>
-
-`Python` `R` `A/B Testing` `Causal Inference` `Fisher` `Chi-square` `BH-FDR`
-
-</td>
-</tr>
-
+</td></tr>
 </table>
 
 ---
 
 ## 🌄 Life Beyond the Laptop
 
-<sub>Outside work: mountains, movement, and competition.</sub>
+<sub>Mountains, movement, and a bit of competition.</sub>
 
 <table width="100%">
 <tr>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/skiing.jpg" width="100%"/>
-</a>
-<br/><b>⛷️ Skiing</b>
-</td>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/tennis.jpg" width="100%"/>
-</a>
-<br/><b>🎾 Tennis</b>
-</td>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/running.jpg" width="100%"/>
-</a>
-<br/><b>🏃 Running</b>
-</td>
-
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/skiing.jpg" width="100%"/></a><br/><b>⛷️ Skiing</b></td>
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/tennis.jpg" width="100%"/></a><br/><b>🎾 Tennis</b></td>
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/running.jpg" width="100%"/></a><br/><b>🏃 Running</b></td>
 </tr>
 <tr>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/polo.jpg" width="100%"/>
-</a>
-<br/><b>🐎 Polo</b>
-</td>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/hiking.jpg" width="100%"/>
-</a>
-<br/><b>🥾 Hiking</b>
-</td>
-
-<td width="33%" align="center">
-<a href="https://www.esteki.ca/life.html">
-<img src="https://www.esteki.ca/assets/life/strength.jpg" width="100%"/>
-</a>
-<br/><b>🏋️ Strength</b>
-</td>
-
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/polo.jpg" width="100%"/></a><br/><b>🐎 Polo</b></td>
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/hiking.jpg" width="100%"/></a><br/><b>🥾 Hiking</b></td>
+<td width="33%" align="center"><a href="https://esteki.ca/life.html"><img src="https://esteki.ca/assets/life/strength.jpg" width="100%"/></a><br/><b>🏋️ Strength</b></td>
 </tr>
 </table>
 
@@ -372,19 +250,9 @@ A three-stage approval flow protects sensitive operations. SQL is checked at the
 
 <table width="100%">
 <tr>
-
-<td width="33%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoomanesteki&theme=github_dark"/>
-</td>
-
-<td width="33%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoomanesteki&theme=github_dark"/>
-</td>
-
-<td width="33%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoomanesteki&theme=github_dark"/>
-</td>
-
+<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoomanesteki&theme=github_dark"/></td>
+<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoomanesteki&theme=github_dark"/></td>
+<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoomanesteki&theme=github_dark"/></td>
 </tr>
 </table>
 
@@ -393,18 +261,14 @@ A three-stage approval flow protects sensitive operations. SQL is checked at the
 <div align="center">
 
 ```python
-def build_production_ml(problem):
-    baseline = measure(problem)
-
-    system = build(
-        grounded=True,
-        guarded=True,
-        observable=True,
-        cost_aware=True,
-        human_approved=True,
+def ship(problem):
+    return build(problem,
+        grounded=True,       # cite the evidence, or abstain
+        guarded=True,        # safety in code, not in the prompt
+        measured=True,       # a number behind every claim
+        cost_aware=True,     # the cheapest model that still passes
+        human_approved=True, # a person promotes to production
     )
-
-    return system.ship()
 ```
 
 <br/>
@@ -412,11 +276,8 @@ def build_production_ml(problem):
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Explore_esteki.ca-0071e3?style=for-the-badge)](https://www.esteki.ca)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%A4%9D_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hoomanesteki)
 
-<br/>
-
 <sub>Machine Learning Engineer · Data Scientist · Master of Data Science, UBC</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 
 </div>
-
