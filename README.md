@@ -252,40 +252,4 @@ I take AI systems from prototype to production: **grounded RAG, multi-agent syst
 </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
-
-<table width="100%">
-<tr>
-<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoomanesteki&theme=github_dark"/></td>
-<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoomanesteki&theme=github_dark"/></td>
-<td width="33%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoomanesteki&theme=github_dark"/></td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-```python
-def ship(problem):
-    return build(problem,
-        grounded=True,       # cite the evidence, or abstain
-        guarded=True,        # safety in code, not in the prompt
-        measured=True,       # a number behind every claim
-        cost_aware=True,     # the cheapest model that still passes
-        human_approved=True, # a person promotes to production
-    )
-```
-
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Explore_esteki.ca-0071e3?style=for-the-badge)](https://www.esteki.ca)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%A4%9D_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hoomanesteki)
-
-<sub>Machine Learning Engineer · Data Scientist · Master of Data Science, UBC</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&reversal=true" width="100%"/>
-
-</div>
