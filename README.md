@@ -24,7 +24,7 @@ and ends with proof: a source, a number, or a person who approves it.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hoomiix)
 [![Let's talk](https://img.shields.io/badge/Let%27s_talk-1d1d1f?style=for-the-badge)](https://esteki.ca/contact.html)
 
-<sub>Canadian. Open to work in Canada and the US.</sub>
+<sub>Canadian. Open to relocate anywhere in Canada and the US.</sub>
 
 </div>
 
